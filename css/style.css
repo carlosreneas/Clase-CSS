@@ -1,3 +1,28 @@
 * {
-	color: yellow;
+	color: blue;
 }
+
+body {
+	background-color: #ff5678
+}
+
+div.bodyClass {
+	background-color: yellow
+}
+
+
+.bodyClass {
+	background-color: peru
+}
+
+#bodyId {
+	background-color: brown
+}
+
+a {
+	color: green;
+}
+
+
+
+
