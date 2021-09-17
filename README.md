@@ -2,6 +2,11 @@
 Repositorio correspondiente a la clase de CSS en la asignatura de Programación WEB
 ***
 
+## Herramientas
+Para el desarrollo de esta actividad necesitamos algunas herramientas básicas como un editor de texto y un navegador Web.
+* Sublime Text: editor de texto
+* Google Chrome: navegador web
+
 ## Selectores de CSS
 1. Selector Universal
 2. Selector de Elemento HTML
