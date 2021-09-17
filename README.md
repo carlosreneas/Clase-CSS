@@ -21,4 +21,10 @@ Para el desarrollo de esta actividad necesitamos algunas herramientas básicas c
   font-size: 15px;
 }
 ```
+
 4. Selector de ID
+
+
+## Previsualización
+Para previsualizar el contenido del repositorio puedes acceder a la dirección https://carlosreneas.github.io/Clase-CSS/
+
