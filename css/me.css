@@ -17,3 +17,11 @@ a[href="http://www.ufps.edu.co"] {
 	color: gray;
 	font-size: 20px;
 }
+/*----------*/
+.texto1 > span{
+	font-family: arial black;
+	font-style: italic;
+}
+li > a:hover{
+	color: #ee9a00;
+}
