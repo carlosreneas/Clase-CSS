@@ -1,0 +1,19 @@
+#bodyId {
+    background-color: white;
+}
+
+div>a {
+	color: green;
+	font-size: 1.5em;
+	font-family: fantasy;
+	font-weight: bolder;
+}
+
+h1 + h2 {
+	color: red
+}
+
+a[href="http://www.ufps.edu.co"] {
+	color: gray;
+	font-size: 20px;
+}
