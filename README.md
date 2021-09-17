@@ -24,6 +24,13 @@ Para el desarrollo de esta actividad necesitamos algunas herramientas básicas c
 
 4. Selector de ID
 
+```
+#id {
+  display: none;
+}
+```
+
+
 
 ## Previsualización
 Para previsualizar el contenido del repositorio puedes acceder a la dirección https://carlosreneas.github.io/Clase-CSS/
